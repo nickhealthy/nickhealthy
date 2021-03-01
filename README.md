@@ -1,4 +1,4 @@
-## Hi, I'm nickhealthy!<img src="https://user-images.githubusercontent.com/66216102/109516075-231df080-7aeb-11eb-99a5-ed99e75b37d5.gif" alt="hello" width="28"/> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnickhealthy&count_bg=%233889F0&title_bg=%23555555&icon=tapas.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Hi, I'm nickhealthy!<img src="https://user-images.githubusercontent.com/66216102/109516075-231df080-7aeb-11eb-99a5-ed99e75b37d5.gif" alt="hello" width="28"/>
 
 - 🎓 **A job preparation student** who prepares to be a Developer
 - ✈ Explorer in various fields, such as **Web Full Development, DevOps, Cloud, etc.**
