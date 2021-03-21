@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?&style=for-the-badge&logo=Jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/docker%20-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-%23232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/Amazon_AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
     <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
