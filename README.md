@@ -9,7 +9,7 @@
 </p>
 </div>
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 🌱  저는 ____ 엔지니어입니다.
 - 궁금한 것이 정말 많아 다양하게 시도하는
@@ -19,7 +19,8 @@
 - 어려운 상황에 있더라도 "할 수 있어!" 라고 말하는
 
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 <div align="center">
 <table>
   <tr>
@@ -62,7 +63,7 @@
 </table>
 </div>
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickhealthy&theme=github" alt="Profile Details"/>
 </div>
