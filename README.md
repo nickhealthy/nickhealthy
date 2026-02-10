@@ -1,12 +1,12 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=340&lines=Hi+there+%F0%9F%91%8B+I'm+nickhealthy)](https://git.io/typing-svg)
+<p>
 
-[//]: # (<p>)
 [//]: # (  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>)
-[//]: # (<a href="mailto:alskadmlcraz1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>)
-[//]: # (<a href="https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EC%A3%BC-7417b3219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>)
-[//]: # (</p>)
+<a href="mailto:alskadmlcraz1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/%EC%84%B1%EC%9A%B0-%EC%A3%BC-7417b3219/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 </div>
 
 ## 🧑‍💻 About Me
