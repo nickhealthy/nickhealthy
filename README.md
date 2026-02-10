@@ -51,8 +51,8 @@
     </td>
     <td align="center">
       <a href="https://skillicons.dev">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="37" height="37" />
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="37" height="37" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="45" height="45" />
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="45" height="45" />
       </a>
     </td>
     <td align="center">
