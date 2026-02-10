@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+nickhealthy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=340&lines=Hi+there+%F0%9F%91%8B+I'm+nickhealthy)](https://git.io/typing-svg)
 <p>
 
 [//]: # (  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>)
@@ -11,12 +11,14 @@
 
 ## 🧑‍💻 About Me
 
-🌱  저는 ____ 엔지니어입니다.
+🌱  **저는 ____ 엔지니어입니다.**
 - 궁금한 것이 정말 많아 다양하게 시도하는
 - 새로운 기술, 언어를 배우는데 거부감이 없는
 - 사용하는 기술에 대해 정확하게 이해하고 사용하려 노력하는
 - 업무 프로세스 그리고 이를 뒷받침하는 조직 문화에 관심이 많은
 - 어려운 상황에 있더라도 "할 수 있어!" 라고 말하는
+ 
+<br />
 
 
 ## 🛠️ Tech Stack
@@ -62,6 +64,7 @@
   </tr>
 </table>
 </div>
+<br />
 
 ## 📊 GitHub Stats
 <div align="center">
