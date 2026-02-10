@@ -29,7 +29,7 @@
     <th><h3 align="center">Language</h3></th>
     <th><h3 align="center">Backend</h3></th>
     <th><h3 align="center">Database</h3></th>
-    <th><h3 align="center">Cloud</h3></th>
+    <th><h3 align="center">Infra</h3></th>
     <th><h3 align="center">Tools</h3></th>
   </tr>
   <tr>
